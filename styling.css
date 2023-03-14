@@ -1,0 +1,21 @@
+.myCloud {
+    background-color: black;
+    color: white;
+    font-style: bold;
+    font-size: 50px;
+}
+
+.projects{
+    text-align: center;
+    background-color: blue;
+    color: whitesmoke;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.contact{
+    text-align: right;
+    background-color: skyblue;
+    color: black;
+    text-decoration: underline;
+}
