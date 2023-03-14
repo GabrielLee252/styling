@@ -4,7 +4,9 @@
     font-style: bold;
     font-size: 50px;
 }
-
+span{
+    color: rgb(0,255,255);
+}
 .projects{
     text-align: center;
     background-color: blue;
